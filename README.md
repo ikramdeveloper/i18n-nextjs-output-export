@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS Internationalization
+
+NextJS i18n implementation with `output: "export"`
+
+Read the complete article on [dev.to](https://dev.to/ikramdeveloper/i18n-with-nextjs-output-export-1pbc)
 
 ## Getting Started
 
